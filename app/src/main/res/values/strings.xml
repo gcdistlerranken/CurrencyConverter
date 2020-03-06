@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="textViewForTitle">Currency Converter</string>
+    <string name="editTextForInput">Amount To Convert</string>
+    <string name="textViewForFrom">FROM:</string>
+    <string name="editTextForTo">TO:</string>
+    <string name="buttonForConvert">Convert</string>
+    <string-array name="currencies_array">
+        <item>" US Dollars"</item>
+        <item>" European Euros"</item>
+        <item>" British Pounds"</item>
+        <item>" Swiss Francs"</item>
+        <item>" Australian Dollars"</item>
+        <item>" Canadian Dollars"</item>
+        <item>" New Zealand Dollars"</item>
+        <item>" Japanese Yen"</item>
+    </string-array>
+</resources>
